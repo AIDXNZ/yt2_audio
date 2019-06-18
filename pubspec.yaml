@@ -2,7 +2,7 @@ name: yt2_audio
 description: A new Flutter package project.
 version: 0.0.1
 author: "Aidan M. <asmaidan@outlook.com>"
-homepage: https://github.com/AIDXNZ/yt2-audio
+homepage: https://github.com/AIDXNZ/yt2_audio
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
