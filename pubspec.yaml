@@ -1,6 +1,6 @@
 name: yt2_audio
 description: A new Flutter package project.
-version: 0.0.1
+version: 0.0.2
 author: "Aidan M. <asmaidan@outlook.com>"
 homepage: https://github.com/AIDXNZ/yt2_audio
 
@@ -12,6 +12,7 @@ dependencies:
     sdk: flutter
   audioplayers: ^0.12.1
   youtube_extractor: ^1.0.2
+  dio: ^2.1.7
 
 dev_dependencies:
   flutter_test:
